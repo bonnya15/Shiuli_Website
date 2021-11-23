@@ -1,9 +1,6 @@
 ## This is my repository for personal website ##
 
-
-
-
-
+Template used ---
 
 Spectral by HTML5 UP
 html5up.net | @ajlkn
